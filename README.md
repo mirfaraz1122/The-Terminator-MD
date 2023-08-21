@@ -106,4 +106,4 @@ THANKS FOR USNING THE TERMINATOR MD 💃💖
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [thashi 💖]() for Voice ,[slrealtech](https://youtube.com/slrealtech) , [darkalpha](http://github.com/mirfaraz1122) and [isuru]() thanks for helps 💖
+ [ 💖THANKS BRO SAQLAIN FOR HELP💖]
