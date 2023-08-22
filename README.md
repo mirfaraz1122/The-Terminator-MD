@@ -17,7 +17,7 @@
 # 
 
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/mirfaraz1122)
-<b>Version -> v3.9.0</b>
+<b>Version -> v3.9.5</b>
 # 
 THE TERMINATOR MD whatsapp bot is,
 
