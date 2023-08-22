@@ -19,9 +19,9 @@
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/mirfaraz1122)
 <b>Version -> v3.9.5</b>
 # 
-THE TERMINATOR MD whatsapp bot is,
+The-Terminator-MD whatsapp bot is,
 
-      THR TERMINATOR MD whatsapp bot is an easy to use whatsapp robot.   |  THE TERMINATOR
+      The-Terminator-MD whatsapp bot is an easy to use whatsapp robot.   |  THE TERMINATOR
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -70,8 +70,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/mirfaraz1122/THE_TERMINATOR_MD
-cd THE_TERMINATOR_MD
+git clone https://github.com/mirfaraz1122/The-Terminator-MD
+cd The-Terminator-MD
 npm install
 npm start
 
@@ -93,7 +93,7 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANKS FOR USNING THE TERMINATOR MD 💃💖
+THANKS FOR USNING The-Terminator-MD 💃💖
 
 *Join our support group ()
      
